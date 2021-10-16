@@ -12,7 +12,8 @@ Here is a more complete description.
 
 ### MRT_array_1.py. 
 
-I implementing the array factor and radiation pattern functions based on the derivations from the following textbook: *Warren L. Stutzman, Gary A. Thiele - Antenna Theory and Design-Wiley (2012)*.
+I implemented the array factor and radiation pattern functions based on the derivations from the following textbook: 
+*Warren L. Stutzman, Gary A. Thiele - Antenna Theory and Design-Wiley (2012)*.
 
 
 ### MRT_antenna_sim.py
